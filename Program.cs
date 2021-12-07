@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Canarys_Employee_Parameterized_Constructor
+namespace Emps
 {
     class Program
     {
